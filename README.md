@@ -255,9 +255,8 @@ Pinos usados (exemplo): GP11, GP12, GP13.
 **Fluxo:**
 -Liga um LED por 1s, desliga e passa para o próximo; ciclo contínuo.
 
-###leds/blink.py
+### leds/blink.py
 ```python
-
 # leds/blink.py
 # Pisca LEDs verde, azul e vermelho em sequência
 
@@ -311,7 +310,7 @@ API usada: módulo neopixel — cria np = NeoPixel(pin, num_pixels). Cada elemen
 - Efeito varredura: acende cada LED branco um por um com 50 ms entre eles.
 - Limpa e repete.
 
-###matriz_led/matriz_led.py
+### matriz_led/matriz_led.py
 ```python
 
 # matriz_led/matriz_led.py
