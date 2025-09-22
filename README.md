@@ -375,7 +375,7 @@ while True:
 
 ---
 
-##Conclusão
+## Conclusão
 
 Este conjunto de exemplos oferece uma base prática e didática para quem quer explorar os fundamentos de automação e interfaces físicas com MicroPython em placas como o Raspberry Pi Pico ou BitDogLab. Cada script demonstra conceitos importantes como:
 
